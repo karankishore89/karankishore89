@@ -61,14 +61,21 @@
 
 ---
 
+---
+
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karankishore89&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankishore89&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karankishore89&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=karankishore89&theme=react&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankishore89&layout=compact&theme=react&hide_border=true" height="160"/>
 </p>
 
 ---
+
 
 ## 🌐 Let's Connect
 
