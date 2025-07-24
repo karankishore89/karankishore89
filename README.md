@@ -22,7 +22,7 @@ I'm not just a developer; I'm a **strategic problem-solver** and a final-year **
 Currently, as a **Salesforce Developer at Subsell Tech Solution**, I don't just write code – I **engineer solutions that streamline operations, enhance user experience, and deliver measurable ROI.** My focus is on crafting Salesforce applications that aren't just functional, but genuinely transformative.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9xFs5e5/giphy.gif" width="60px" alt="Building GIF"/>
+  <img src="https://github.com/karankishore89/karankishore89/blob/main/original-0cafa6e16e99c8c48687abf863ffb5ee.gif" width="60px" alt="Building GIF"/>
 </p>
 
 **My Superpowers Include:**
