@@ -143,7 +143,7 @@ I'm always eager to discuss new challenges, innovative solutions, and opportunit
 ---
 
 > <div align="center" style="color:#39FF14;">💬 *"My mission: To transform complex business problems into elegant, high-impact Salesforce solutions. Let's build something exceptional."*</div>
-> <div align="center" style="color:#00FFFF;">📍 Coimbatore, Tamil Nadu, India</div>
+> <div align="center" style="color:#00FFFF;">📍 Nagappatinam, Tamil Nadu, India</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=39FF14&height=60" alt="Cylinder Footer" />
