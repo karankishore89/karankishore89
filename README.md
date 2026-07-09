@@ -65,10 +65,6 @@ Applied machine learning and big data techniques to CRM data to extract predicti
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karankishore89&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankishore89&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankishore89&theme=default&hide_border=true" alt="Streak Stats"/>
